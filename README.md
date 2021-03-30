@@ -4,8 +4,8 @@ This game uses CS106A Plugin. To run the game you need to follow the procedure i
 
 This is a multiplayer pong game which uses LAN connection.
 
-For a better experience, it is important that font
-provided in the same folder must be installed. ( CosmicAlien-30.ttf)
+For a better experience, font
+provided in the same folder can be installed. ( CosmicAlien-30.ttf)
 
 ![Game](https://github.com/erenyenigul/kong_pong/blob/main/assets/Screen%20Shot%202021-03-30%20at%2013.53.11.png)
 
