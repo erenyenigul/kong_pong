@@ -1,3 +1,9 @@
+![Kong Pong Experience](https://github.com/erenyenigul/kong_pong/blob/main/assets/Screen%20Shot%202021-03-30%20at%2013.52.38.png)
+
+##Multiplayer Pong Game
+
+***This game uses CS106A Plugin. To run the game you need to follow the procedure in this link: *** https://web.stanford.edu/dept/cs_edu/eclipse/#configure
+
 This is a multiplayer pong game which uses LAN connection.
 
 For a better experience, it is important that font
